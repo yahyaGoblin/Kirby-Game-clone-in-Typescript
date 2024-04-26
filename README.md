@@ -15,7 +15,7 @@ Assuming you have `node` installed.
 - Run locally with `npm run dev`
 - Build for production with `npm run build` and a dist folder should appear
 
-- ## Credits
+## Credits
 
 Art was made by JSLegend
 Learn how to build this game by following JSLegend's tutorial : https://www.youtube.com/watch?v=rICeqnbzkZk
