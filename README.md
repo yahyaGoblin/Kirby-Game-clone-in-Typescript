@@ -3,7 +3,7 @@
 ![game preview](preview.png)
 
 hello, this is a game project that I made in typescript following JSLegend's tutorial on freecodecamp.
-I learned about the Kaboom library in javascript.
+I learned about the Kaboom library in JavaScript.
 this was quite an enjoyable experience since I also have a bit of experience making games in Unity using typescript as most of the code was quite similar although the loading the level part had me stuck due to a "SPELLING MISTAKE",
 overall this was quite helpful learning experience as I'm learning typescript
 
@@ -13,7 +13,13 @@ overall this was quite helpful learning experience as I'm learning typescript
 Assuming you have `node` installed.
 - Install dependencies with `npm install`
 - Run locally with `npm run dev`
-- Build for production with `npm run build` and a dist folder should appear
+
+
+## Controls
+-arrow keys to move 
+-x to jump 
+-z to inhale
+
 
 ## Credits
 
